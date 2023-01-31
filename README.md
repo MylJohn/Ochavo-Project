@@ -1,7 +1,6 @@
-#Ochavo project
-im myl john ochavo im in second year college 
-
-AUTHORS
- @MYLJOHN 
- 
- printf("Hello Wolrd!");
+#Ochavo-project
+im myl john ochavo im in second year college still Learning 
+##Author 
+* [Ochavo-BSIT-2](https://github.com/Rodel-BSIT-2)
+## Sample code
+printf("Hello World!");
