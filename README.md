@@ -7,6 +7,7 @@ printf("Hello World!");
 ## How to Install
 * How To Use and Learn Github and git beacuse i also do not know i need help
 ## First Commit
+commit 1
 
 
 
